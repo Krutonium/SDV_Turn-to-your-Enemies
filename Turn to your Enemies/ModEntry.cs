@@ -1,12 +1,8 @@
-﻿using Microsoft.Xna.Framework;
-using StardewModdingAPI;
+﻿using StardewModdingAPI;
 using StardewModdingAPI.Events;
-using StardewModdingAPI.Utilities;
 using StardewValley;
 using System;
-using Microsoft.Xna.Framework.Input;
 using Netcode;
-using Object = StardewValley.Object;
 
 namespace Turn_to_your_Enemies
 {
