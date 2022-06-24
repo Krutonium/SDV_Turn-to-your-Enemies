@@ -6,5 +6,5 @@
   "UniqueID": "krutonium.turn_to_your_enemies",
   "EntryDll": "Turn to your Enemies.dll",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": [ "Nexus:12643"]
 }
